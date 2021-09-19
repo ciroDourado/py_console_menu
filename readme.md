@@ -21,11 +21,14 @@ Passo a passo simplificado:
 
 [*]
 <strong>
+
 ```
 git clone git@github.com:ciroDourado/py_console_menu.git
 ```
+
 </strong>
 [**]
+<strong>
 
 ```
 from menu.ClasseMenu import Menu
@@ -38,3 +41,5 @@ meuMenu.botaoSair("Tecla ou frase")
 ...
 meuMenu.loop() 
 ```
+
+</strong>
