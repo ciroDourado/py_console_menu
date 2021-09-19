@@ -6,6 +6,7 @@ O package menu foi pensado em facilitar a criação de menus, <strong>sem que o 
 <br>
 No fim, o código fica mais limpo e expansível, e toda a lógica de loop fica escondida na "caixinha" do objeto menu.
 <br>
+
 ## Como utilizar
 <br>
 Passo a passo simplificado: 
