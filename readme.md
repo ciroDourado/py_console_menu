@@ -170,4 +170,5 @@ menu.loop()
 ```
 
 </strong>
-![](/readme/exemplo.png)
+
+![](imgs/exemplo.png)
