@@ -53,15 +53,15 @@ Normalmente começaríamos escrevendo funções que realizam cada uma das coisas
 
 ```
 def cadastrar():
-    print("Cadastrando...\n")
+	print("Cadastrando...\n")
 	# toda a lógica por trás desta função
 
 def exibir():
-    print("Exibindo...\n")
+	print("Exibindo...\n")
 	# toda a lógica por trás desta função
 
 def excluir():
-    print("Excluindo...\n")
+	print("Excluindo...\n")
 	# toda a lógica por trás desta função
 ```
 
@@ -147,15 +147,15 @@ Ou, adaptando ao nosso exemplo inicial:
 from menu.ClasseMenu import Menu
 
 def cadastrar():
-    print("Cadastrando...\n")
+	print("Cadastrando...\n")
 	# toda a lógica por trás desta função
 
 def exibir():
-    print("Exibindo...\n")
+	print("Exibindo...\n")
 	# toda a lógica por trás desta função
 
 def excluir():
-    print("Excluindo...\n")
+	print("Excluindo...\n")
 	# toda a lógica por trás desta função
 
 menu = Menu()
