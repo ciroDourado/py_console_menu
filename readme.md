@@ -43,6 +43,7 @@ meuMenu.loop()
 
 </strong>
 <br>
+
 ## Exemplo
 <br>
 Imagine que temos de fazer um sistema de cadastro, com um menu que apresente algumas opções ao usuário (como cadastrar novo usuário, excluir cadastro, exibir dados, e por aí vai).
@@ -169,4 +170,7 @@ menu.loop()
 ```
 
 </strong>
+<<<<<<< HEAD
 ![](readme/exemplo.png)
+=======
+>>>>>>> 76abc2334e5781e639e86fbe8fc4eaa33b1b67ea
