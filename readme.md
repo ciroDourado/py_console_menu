@@ -3,7 +3,7 @@ __Um simples menu__
 <br>
 <br>
 O package menu foi pensado em facilitar a criação de menus, 
-**sem que o programador tenha de se preocupar em criar várias condicionais de if elses**
+<strong>sem que o programador tenha de se preocupar em criar várias condicionais de if elses</strong>
 ou tentar se aventurar em usar um dicionário ou hashmap para fazer a relação entre opção e função.
 <br>
 <br>
@@ -16,7 +16,7 @@ Passo a passo simplificado:
 |> baixe o repositório [*]
 <br>
 |> salve a pasta 
-**menu**
+<strong>menu</strong>
 na raiz do seu projeto
 <br>
 |> importe a classe menu, instancie um objeto e inicialize [**]
