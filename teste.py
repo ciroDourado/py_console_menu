@@ -1,4 +1,3 @@
-import menu
 from menu.ClasseMenu import Menu
 
 # criar um menu é super simples:
