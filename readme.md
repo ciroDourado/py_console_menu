@@ -162,10 +162,11 @@ menu = Menu()
 menu.adicionar("1", "Cadastrar novo cliente" , cadastrar)
 menu.adicionar("2", "Exibir dados do cliente", exibir   )
 menu.adicionar("3", "Excluir cadastro"       , excluir  )
-menu.adicionar("X", "X para sair"            , None     )
+menu.adicionar("X", "Sair do programa"       , None     )
 menu.botaoSair("X")
 
 menu.loop()
 ```
 
 </strong>
+![](readme/exemplo.png)
