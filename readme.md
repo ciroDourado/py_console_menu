@@ -170,7 +170,4 @@ menu.loop()
 ```
 
 </strong>
-<<<<<<< HEAD
-![](readme/exemplo.png)
-=======
->>>>>>> 76abc2334e5781e639e86fbe8fc4eaa33b1b67ea
+![](/readme/exemplo.png)
